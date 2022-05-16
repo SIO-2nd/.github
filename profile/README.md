@@ -12,11 +12,11 @@ pour promouvoir et développer les différents logiciel de l'entreprise Info-Too
 
 <h3>Les projets</h3>
 
-<p><u>Vous trouverez sur ce groupe GitHub</u> :</p>
-<li>L'application CRM Lourde</li>
-<li>L'application CRM Web</li>
-<li>L'application CRM Mobile</li>
-<li>Le site vitrine</li>
+<p><u>Vous trouverez sur ce groupe GitHub le code source de ces différentes applications</u> :</p>
+<li>L'application CRM Lourde (Écrite en C# à l'aide de la méthode WPF)</li>
+<li>L'application CRM Web (Écrite en PHP à l'aide du framework Laravel)</li>
+<li>L'application CRM Mobile (Écrite en C# à l'aide de la méthode Xamarin)</li>
+<li>Le site vitrine (Écrite en HTML et CSS)</li>
 
 <h2 id="credits">Crédits</h2>
 
