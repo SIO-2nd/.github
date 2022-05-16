@@ -2,11 +2,13 @@
 
 <h3>Introduction</h3>
 
-<p>La société Info-Tools développe et vend différents logiciels. Elle propose aussi le dimensionnement
-et la mise en place de l’infrastructure matérielle nécessaire au bon fonctionnement de ses différentes
-solutions logicielles. C’est dans son activité de démarchage de nouveaux clients que ce projet vient s’inscrire.</p>
+<p>La société Info-Tools développe et vend différents logiciels.<br>
+Elle propose aussi le dimensionnement et la mise en place de l’infrastructure<br>
+matérielle nécessaire au bon fonctionnement de ses différentes solutions logicielles.<br>
+C’est dans son activité de démarchage de nouveaux clients que ce projet vient s’inscrire.</p>
 
-<p>Le but est de créer 3 applications (Windows, Web et Mobile) ainsi qu'un site vitrine pour promouvoir et développer les différents logiciel de l'entreprise Info-Tools.
+<p>Le but est de créer 3 applications (Windows, Web et Mobile) ainsi qu'un site vitrine<br>
+pour promouvoir et développer les différents logiciel de l'entreprise Info-Tools.</p>
 
 <h3>Les projets</h3>
 
